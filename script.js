@@ -7,6 +7,7 @@ const messages = [
     "I love you",
     "I'm so lucky to have you",
     "I hear your cute laughter in my dreams"
+    "Chum netflix tmm"
 ];
 
 let currentIndex = 0;
